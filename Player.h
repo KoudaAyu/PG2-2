@@ -3,5 +3,9 @@
 
 class Player : public Object
 {
+private:
 
+	bool isAlive_;
+
+public:
 };
